@@ -1,0 +1,3 @@
+C:/Users/Timur/CLionProjects/guloev/cmake-build-debug/CMakeFiles/guloev.dir
+C:/Users/Timur/CLionProjects/guloev/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Timur/CLionProjects/guloev/cmake-build-debug/CMakeFiles/rebuild_cache.dir
