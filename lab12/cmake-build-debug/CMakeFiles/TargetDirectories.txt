@@ -1,0 +1,3 @@
+C:/Users/Timur/CLionProjects/LastOne/cmake-build-debug/CMakeFiles/LastOne.dir
+C:/Users/Timur/CLionProjects/LastOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Timur/CLionProjects/LastOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
